@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/6628c86eca4638831c3de002
+content-type: application/json
+
+{
+    "content": "VS Code has a lot of plug-ins",
+    "important": true
+}
